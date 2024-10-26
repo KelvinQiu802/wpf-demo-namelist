@@ -1,0 +1,5 @@
+C:\Users\13002\Desktop\123\wpf-demo-1.exe
+C:\Users\13002\Desktop\123\wpf-demo-1.dll
+C:\Users\13002\Desktop\123\wpf-demo-1.deps.json
+C:\Users\13002\Desktop\123\wpf-demo-1.runtimeconfig.json
+C:\Users\13002\Desktop\123\wpf-demo-1.pdb
